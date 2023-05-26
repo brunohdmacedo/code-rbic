@@ -131,6 +131,7 @@ def experiment(model_name, model, params, X_, y, book_name='Local', pos_label=1)
 #
 #
 # Definition of models and parameters
+# definição dos modelos e parametros
 model_params = {
           'lr': {'model': LogisticRegression(),
                 'params': {
@@ -212,13 +213,6 @@ model_params = {
                            'algorithm': Categorical(['SAMME', 'SAMME.R']),
                            'random_state': [1]}},
 
-          'gbc': {'model': GradientBoostingClassifier(),
-                  'params': {    
-                            'n_estimators': Integer(10, 500),
-                            'learning_rate': Real(1e-3, 1, prior='log-uniform'),
-                            'max_depth': Integer(3, 10),
-                            'random_state': [1]}},
-
           'lda': {'model': LinearDiscriminantAnalysis(),
                  'params': {
                            'solver': Categorical(['svd', 'lsqr', 'eigen']),
@@ -244,7 +238,7 @@ model_params = {
                                 'learning_rate': Real(1e-3, 1, prior='log-uniform'),
                                 'n_estimators': Integer(10, 500),
                                 'num_leaves': Integer(2, 100),
-                                'max_depth': Integer(3, 10)}}
+                                'max_depth': Integer(3, 10)}},
 
           'catboost': {'model': CatBoostClassifier(verbose=0),
                      'params': {
