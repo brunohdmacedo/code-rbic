@@ -1,26 +1,17 @@
-\title{Experimental Evaluation Of Machine Learning Algorithms For The Automatic Detection Of Exoplanets Using Light Curves}}
+# Experimental Evaluation Of Machine Learning Algorithms For The Automatic Detection Of Exoplanets Using Light Curves
 
-\author[first]{B. H. D. Macedo}\author[second]{ P. O. Montanger}\author[third]{W. Zalewski}
-\affiliation[first]{organization={Graduating in Engineering Physics - Latin American Institute of Life and Nature Sciences (ILACVN) - Federal University of Latin American Integration - UNILA},%Department and Organization
-            e-mail={ brunohdmacedo@gmail.com},
-            addressline={North Region}, 
-            city={Foz do Iguaçu - PR},
-            state={Paraná},
-            country={Brazil}}
-\affiliation[second]{organization={Engineering Physics - Latin American Institute of Life and Nature Sciences (ILACVN) - Federal University of Latin American Integration - UNILA},%Department and Organization
-            e-mail={ montangerp@gmail.com},
-            addressline={},
-            city={Cascavel},
-            state={Paraná},
-            country={Brazil}}
-\affiliation[third]{organization={PhD in Computer Science - Latin American Institute of Technology, Infrastructure and Territory (ILATIT) - Federal University of Latin American Integration - UNILA},%Department and Organization
-            e-mail={ willian.zalewski@unila.edu.br},
-            addressline={PTI, Bloco 6, Espaço 1}, 
-            city={Foz do Iguaçu},
-            postcode={}, 
-            state={Paraná},
-            country={Brazil}}
-\begin{abstract}
-%% Text of abstract
+**B. H. D. Macedoa**, Graduating in Engineering Physics - Latin American Institute of Life and Nature Sciences (ILACVN) - Federal University of Latin American Integration - UNILA, North Region, Foz do Iguaçu - PR, Paraná, Brazil, Email: brunohdmacedo@gmail.com
+
+**P. O. Montangerb**, Engineering Physics - Latin American Institute of Life and Nature Sciences (ILACVN) - Federal University of Latin American Integration - UNILA, Cascavel, Paraná, Brazil, Email: montangerp@gmail.com
+
+**W. Zalewskic**, PhD in Computer Science - Latin American Institute of Technology, Infrastructure and Territory (ILATIT) - Federal University of Latin American Integration - UNILA, PTI, Bloco 6, Espaço 1, Foz do Iguaçu, Paraná, Brazil, Email: willian.zalewski@unila.edu.br
+
+![Exoplanet](https://viewspace.org/assets/interactives/live/detecting_other_worlds/transiting_exoplanet/exoplanet-2.5hours@1x-5a3e2c6925d5a35bfc6441fa35c3445d78341065261afa4c0a6ad9c214b87b48.jpg)
+
+## Abstract
+
 Over the past two decades, advancements in astronomical technology have resulted in a wealth of data from space missions, leading to new insights into celestial phenomena. Automated data processing, particularly in exoplanet detection, is increasingly critical due to the volume of data, prompting calls for more efficient evaluation methods. In this study, we gathered data from the Kepler telescope and carried out an extensive experimental evaluation using 16 machine learning algorithms with varying parameter settings. To analyze the results obtained, we proposed an experimental analysis method aiming to set a baseline for the literature on automatic exoplanet detection.
-\end{abstract}
+
+## Keywords
+
+astronomy, exoplanet, machine learning, light curve.
