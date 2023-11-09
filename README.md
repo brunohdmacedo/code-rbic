@@ -1,8 +1,6 @@
-# Experimental Evaluation Of Machine Learning Algorithms For The Automatic Detection Of Exoplanets Using Light Curves
+# AUTOMATIC LIGHT CURVE PROCESSING FOR EXOPLANET IDENTIFICATION USING MACHINE LEARNING ALGORITHMS
 
 **B. H. D. Macedo**, Graduating in Engineering Physics - Latin American Institute of Life and Nature Sciences (ILACVN) - Federal University of Latin American Integration - UNILA, North Region, Foz do Iguaçu - PR, Paraná, Brazil, Email: brunohdmacedo@gmail.com
-
-**P. O. Montanger**, Engineering Physics - Latin American Institute of Life and Nature Sciences (ILACVN) - Federal University of Latin American Integration - UNILA, Cascavel, Paraná, Brazil, Email: montangerp@gmail.com
 
 **W. Zalewski**, PhD in Computer Science - Latin American Institute of Technology, Infrastructure and Territory (ILATIT) - Federal University of Latin American Integration - UNILA, PTI, Bloco 6, Espaço 1, Foz do Iguaçu, Paraná, Brazil, Email: willian.zalewski@unila.edu.br
 
@@ -10,7 +8,13 @@
 
 ## Abstract
 
-Over the past two decades, advancements in astronomical technology have resulted in a wealth of data from space missions, leading to new insights into celestial phenomena. Automated data processing, particularly in exoplanet detection, is increasingly critical due to the volume of data, prompting calls for more efficient evaluation methods. In this study, we gathered data from the Kepler telescope and carried out an extensive experimental evaluation using 16 machine learning algorithms with varying parameter settings. To analyze the results obtained, we proposed an experimental analysis method aiming to set a baseline for the literature on automatic exoplanet detection.
+Over the past two decades, advancements in astronomical technology have resulted in a wealth of data
+from space missions, leading to new insights into celestial phenomena. Automated data processing, particularly
+in exoplanet detection, is increasingly critical due to the volume of data, prompting calls for more efficient
+evaluation methods. In this study, we gathered data from the Kepler telescope and carried out an extensive
+experimental evaluation using 16 machine learning algorithms with varying parameter settings. To analyze the
+results obtained, we proposed an experimental analysis method aiming to set a baseline for the literature on
+automatic exoplanet detection.
 
 ## Keywords
 
