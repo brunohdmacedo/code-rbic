@@ -47,3 +47,15 @@ un punto de referencia en la literatura sobre detección automática de exoplane
 
 ### Palabras-clave:
 astronomía. exoplaneta. aprendizaje automático. curva de luz.
+
+### Como Citar - Harvard
+Dourado Macedo, B. H. e Zalewski, W. (2024) “Processamento automático de curvas de luz para a identificação de exoplanetas por meio de uso de algoritmos de aprendizado de máquina”, Revista Brasileira de Iniciação Científica, p. e024021. Disponível em: https://periodicoscientificos.itp.ifsp.edu.br/index.php/rbic/article/view/1403 (Acessado: Dia mês Ano).
+
+### Como Citar - ABNT
+DOURADO MACEDO, B. H.; ZALEWSKI, W. Processamento automático de curvas de luz para a identificação de exoplanetas por meio de uso de algoritmos de aprendizado de máquina. Revista Brasileira de Iniciação Científica, [S. l.], p. e024021, 2024. Disponível em: https://periodicoscientificos.itp.ifsp.edu.br/index.php/rbic/article/view/1403. Acesso em: Dia mês Ano.
+
+### Como Citar - ABNT
+B. H. Dourado Macedo e W. Zalewski, “Processamento automático de curvas de luz para a identificação de exoplanetas por meio de uso de algoritmos de aprendizado de máquina”, Revista Brasileira de Iniciação Científica, p. e024021, mês Ano.
+
+### Download BibTex
+### [Endnote/Zotero/Mendeley (RIS)](https://periodicoscientificos.itp.ifsp.edu.br/index.php/rbic/citationstylelanguage/download/ris?submissionId=1403&publicationId=1409)
